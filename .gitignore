@@ -48,3 +48,6 @@ Gemfile.lock
 /_yardoc/
 /doc/
 /rdoc/
+
+# Ignore OS generated files and folders:
+/.DS_Store
